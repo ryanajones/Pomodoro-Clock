@@ -1,6 +1,6 @@
 # Pomodoro Clock
 
-> This is a clock timer application to schedule designated amount of times for both sessions and breaks. React's state management is used to handle session and break lengths, play/pause/reset functions, and time countdown.
+> This is a clock timer application to schedule designated amount of times for both sessions and breaks. React hooks are used to handle session and break lengths, play/pause/reset functions, and time countdown.
 
 ## Technologies Used
 
