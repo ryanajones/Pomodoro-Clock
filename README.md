@@ -1,16 +1,15 @@
 # Pomodoro Clock
 
-This is a timer app to help increase work flow by timing your session and break times. 
+> This is a clock timer application to schedule designated amount of times for both sessions and breaks. The React Context API state management is used to handle session and break lengths, play/pause/reset functions, and time countdown.
 
-## Technologies Used 
+## Technologies Used
 
 HTML SCSS TypeScript React
 
-## CodePen Link  
+## CodePen Link
 
-Removed TypeScript for CodePen to run smoother
-https://codepen.io/ryanajones/pen/ExPVMgV 
+https://codepen.io/ryanajones/pen/ExPVMgV
 
-## Scrreenshot
+## Screenshot
 
 ![alt text](https://i.imgur.com/CkDEIhI.png)
