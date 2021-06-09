@@ -1,6 +1,6 @@
 # Pomodoro Clock
 
-> A clock timer app to schedule designated amount of times for both study sessions and breaks. React hooks are used to handle session and break lengths, play/pause/reset functions, and time countdown.
+A clock timer app to schedule designated amount of times for both study sessions and breaks. React hooks are used to handle session lengths, play/pause/reset buttons, and time countdown.
 
 ## Technologies Used
 
